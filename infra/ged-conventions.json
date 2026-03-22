@@ -1,0 +1,26 @@
+{
+  "name": "ged-conventions",
+  "description": "Engineering design convention lock management",
+  "version": "0.1.0",
+  "transport": "stdio",
+  "module": "ged.mcp.conventions_server",
+  "capabilities": [
+    "convention_set",
+    "convention_check",
+    "convention_diff",
+    "convention_list",
+    "convention_describe"
+  ],
+  "fields": [
+    "unit_system",
+    "material_source",
+    "design_code",
+    "loading_standard",
+    "safety_factors",
+    "coordinate_system",
+    "analysis_method",
+    "mesh_criteria",
+    "convergence_criteria",
+    "environmental_conditions"
+  ]
+}
