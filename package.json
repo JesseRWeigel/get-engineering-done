@@ -1,0 +1,26 @@
+{
+  "name": "get-engineering-done",
+  "version": "0.1.0",
+  "description": "AI copilot for autonomous engineering analysis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JesseRWeigel/get-engineering-done"
+  },
+  "bin": {
+    "get-engineering-done": "bin/install.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "keywords": [
+    "engineering",
+    "analysis",
+    "simulation",
+    "ai",
+    "research",
+    "autonomous",
+    "claude-code",
+    "mcp"
+  ]
+}
